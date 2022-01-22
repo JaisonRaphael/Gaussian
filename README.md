@@ -42,7 +42,7 @@ for i in range(n):
 ~~~
 
 ## Output:
-![gaussian elimination](C:\Users\Jaison\OneDrive\Pictures\Screenshots)
+![gaussian elimination](sgu.png)
 
 
 ## Result:
